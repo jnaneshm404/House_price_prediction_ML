@@ -1,0 +1,51 @@
+area_sqft,bedrooms,bathrooms,location,age_years,parking,price_lakhs
+1050,2,2,Whitefield,5,1,98
+1350,3,2,Whitefield,8,1,125
+900,2,2,Electronic City,12,0,62
+1600,3,3,Koramangala,6,1,285
+1200,2,2,Marathahalli,4,1,105
+1800,3,3,Indiranagar,10,1,340
+1100,2,2,Sarjapur Road,3,1,118
+1450,3,2,Whitefield,7,1,138
+850,2,1,Electronic City,15,0,55
+2000,4,3,Koramangala,5,1,365
+1300,3,2,Hebbal,6,1,155
+1000,2,2,Marathahalli,9,0,88
+1700,3,3,Indiranagar,4,1,320
+1150,2,2,Whitefield,2,1,112
+950,2,2,Electronic City,11,1,68
+1550,3,2,Sarjapur Road,5,1,165
+1400,3,2,Jayanagar,8,1,210
+1250,2,2,Whitefield,6,1,118
+1900,4,3,Koramangala,3,1,390
+1080,2,2,Marathahalli,7,0,95
+1650,3,3,Hebbal,4,1,185
+980,2,2,Electronic City,14,0,60
+1750,3,3,Indiranagar,6,1,335
+1320,3,2,Whitefield,5,1,128
+1120,2,2,Sarjapur Road,8,1,122
+1480,3,2,Jayanagar,7,1,225
+1020,2,2,Marathahalli,10,1,92
+1850,3,3,Koramangala,2,1,375
+1200,2,2,Whitefield,9,0,108
+900,2,2,Electronic City,6,1,70
+1600,3,2,Hebbal,5,1,172
+1350,3,2,Sarjapur Road,4,1,142
+1100,2,2,Whitefield,11,1,102
+1950,4,3,Indiranagar,5,1,355
+1250,2,2,Marathahalli,3,1,110
+1500,3,2,Jayanagar,6,1,230
+980,2,2,Electronic City,13,0,58
+1700,3,3,Koramangala,7,1,310
+1150,2,2,Whitefield,4,1,115
+1400,3,2,Sarjapur Road,6,1,148
+1050,2,2,Hebbal,8,1,135
+1800,3,3,Indiranagar,3,1,345
+1280,3,2,Whitefield,10,0,120
+920,2,2,Electronic City,5,1,65
+1620,3,2,Jayanagar,4,1,240
+1180,2,2,Marathahalli,8,1,100
+1550,3,3,Koramangala,6,1,295
+1320,3,2,Whitefield,3,1,130
+1000,2,2,Sarjapur Road,9,0,108
+1750,3,3,Hebbal,2,1,195
